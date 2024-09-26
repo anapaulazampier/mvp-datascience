@@ -12,9 +12,5 @@ A documentação do projeto se encontra no [Google Colab](https://colab.research
 ## Autora
 
 **Aluna:** Ana Paula Zampier Abreu Alvarenga
-
-**Sprint:** Análise de Dados e Boas Práticas (40530010055_20240_01) 
-
-**Github:** @anapaulazampier
-
-**Discord:** @anapaulazampier
+**Contato:** anapaulazampier@gmail.com 
+**LinkedIn:** [in/anapaulazampier](https://linkedin.com/in/anapaulazampier/) 
